@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>I HATE THIS</title>
+<style>
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 2;
+  animation-direction: alternate-reverse;
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+</style>
+</head>
+<body>
+
+<h1>他好像會跑耶~~~</h1>
+
+<p style="color: magenta">匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡匡</p>
+
+<div></div>
+
+
+</style>
+</head>
+<body>
+
+<h1 style="color: yellow">他也在跑救命</h1>
+
+<p style="color: blueviolet">哭啊我完全看不懂這是啥</p>
+
+<div id="div1">這個</div>
+<div id="div2">到底是</div>
+<div id="div3">什麼</div>
+<div id="div4">東西</div>
+<div id="div5">阿~~~~~~~~~~~</div>
+
+
+
+</body>
+
+</html>
